@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+raw_videos/
+clips/
+features/
+datasets/
+
+# Models
+*.pt
+*.pth
+
+# Arrays
+*.npy
+*.npz
+
+# Logs
+*.log
+failed_downloads.txt
+
+# OS
+.DS_Store
+Thumbs.db
