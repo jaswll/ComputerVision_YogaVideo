@@ -19,6 +19,9 @@
 
 ## Quick Start
 
+<img width="921" height="488" alt="system_architecture" src="https://github.com/user-attachments/assets/f363a820-811e-4ca1-90a8-bc777de4cc87" />
+
+
 ### Clone repo
 ```bash
 git clone <your-repo-url>
