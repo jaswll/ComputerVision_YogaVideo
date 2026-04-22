@@ -7,14 +7,6 @@
 - [Datasets](#datasets)
 - [Pipeline](#pipeline)
 - [Core Modeling Ideas](#core-modeling-ideas)
-- [File-by-File Guide](#file-by-file-guide)
-- [Reproduction Workflows](#reproduction-workflows)
-- [Dependencies](#dependencies)
-- [Environment Notes](#environment-notes)
-- [Outputs](#outputs)
-- [Limitations](#limitations)
-- [Conclusion](#conclusion)
-
 ---
 
 ## Quick Start
