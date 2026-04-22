@@ -54,7 +54,7 @@ cs7150-yogavideo-synthpose-extension.ipynb
 
 ## Project Overview
 
-This project builds a system that:
+Our Northeastern CS7150 Final Project builds a yoga pose assessment system that:
 - classifies yoga poses
 - detects incorrect form
 - provides joint-level feedback
